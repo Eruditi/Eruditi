@@ -51,8 +51,8 @@ I'm a passionate developer and AI enthusiast focused on building innovative solu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eruditi&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eruditi&layout=compact&theme=github_light" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eruditi&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eruditi&layout=compact&theme=light" alt="Top Languages" style="max-width: 300px;" />
 </div>
 
 ## 🎯 Current Focus
