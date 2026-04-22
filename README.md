@@ -84,7 +84,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eruditi&theme=darkhub&row=2&column=4&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Eruditi&theme=dark&row=2&column=4&no-frame=true&no-bg=true" alt="GitHub Trophies" style="max-width: 600px;" />
 </div>
 
 ## 📈 Contribution Graph
@@ -96,7 +96,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Eruditi/Eruditi/blob/master/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Eruditi/Eruditi/master/github-contribution-grid-snake.svg" alt="Contribution Snake" style="max-width: 800px;" />
 </div>
 
 ## 🎯 Current Focus
