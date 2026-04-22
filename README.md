@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Eruditi
+# 👋 Hi, I'm Eruditi <img src="https://emoji.slack-edge.com/T040HKJEJ/jump/4b51a785-bc61-4c54-8579-15b352a58001.gif" width="30" height="30" />  
 
 ## 🚀 About Me
 
@@ -36,21 +36,56 @@ I'm a passionate developer and AI enthusiast focused on building innovative solu
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eruditi&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/Eruditi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eruditi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Eruditi's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Eruditi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eruditi&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/Eruditi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eruditi&theme=radical" alt="GitHub Streak" />
+  </a>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eruditi&layout=compact&theme=radical)
+## 🏆 GitHub Trophies
 
-## 🏆 Achievements
+<div align="center">
+  <a href="https://github.com/Eruditi">
+    <img src="https://github-profile-trophy.vercel.app/?username=Eruditi&theme=radical&row=2&column=3&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</div>
 
-- 🔄 Consistent contributor to open source projects
-- 🎯 Multiple completed projects with real-world applications
-- 📚 Strong technical foundation across multiple domains
-- 🤝 Collaborative mindset with focus on community building
+## 📈 Current Activity
+
+<p align="center">
+  <a href="https://github.com/Eruditi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eruditi&theme=radical" alt="Activity Graph" />
+  </a>
+</p>
+
+## 🔥 Coding Stats
+
+<!-- WakaTime Stats -->
+<p align="center">
+  <a href="https://wakatime.com/@Eruditi">
+    <img src="https://wakatime.com/badge/user/Eruditi.svg" alt="WakaTime Stats" />
+  </a>
+</p>
 
 ## 📫 How to Reach Me
 
-- **Email**: evildoerhacker@gmail.com
-- **GitHub**: [github.com/Eruditi](https://github.com/Eruditi)
+<p align="center">
+  <a href="mailto:evildoerhacker@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Eruditi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Eruditi/music_separator_app" target="_blank">
+    <img src="https://img.shields.io/badge/Projects-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Projects" />
+  </a>
+</p>
 
 ## 🎯 Current Focus
 
@@ -66,6 +101,32 @@ I'm a passionate developer and AI enthusiast focused on building innovative solu
 - I enjoy solving complex technical challenges
 - I believe in the power of open source to drive innovation
 
+## 📚 Latest Projects
+
+<!-- GitHub Readme Recent Activity -->
+<div align="center">
+  <a href="https://github.com/Eruditi">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eruditi&theme=radical&area=true" alt="Recent Activity" />
+  </a>
+</div>
+
+## 🎨 Skills Visualization
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,typescript,javascript,html,css,react,git,github,ffmpeg" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI Skills" />
+</div>
+
 ---
 
-*"Code is poetry, and I'm the poet."* 💻✨
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Eruditi.Eruditi" alt="Visitors" />
+  <p><em>"Code is poetry, and I'm the poet."</em> 💻✨</p>
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://github.com/Eruditi">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+innovative+AI+solutions;Creating+awesome+projects;Contributing+to+open+source;Always+learning+new+technologies&center=true&width=600&height=50&font=Arial&color=radical" alt="Typing Animation" />
+  </a>
+</div>
