@@ -81,10 +81,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eruditi&layout=compact&theme=dark" alt="Top Languages" style="max-width: 300px;" />
 </div>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eruditi&theme=dark&row=2&column=4&no-frame=true&no-bg=true" alt="GitHub Trophies" style="max-width: 600px;" />
+  <img src="https://img.shields.io/badge/GitHub-Contributor-blue?style=for-the-badge&logo=github" alt="GitHub Contributor" />
+  <img src="https://img.shields.io/badge/AI-Enthusiast-purple?style=for-the-badge&logo=brain" alt="AI Enthusiast" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=opensource" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/Software-Developer-orange?style=for-the-badge&logo=code" alt="Software Developer" />
 </div>
 
 ## 📈 Contribution Graph
